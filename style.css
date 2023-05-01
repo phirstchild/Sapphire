@@ -64,7 +64,7 @@ body {
   height: 53px;
 }
 .cont-2img {
-  background-image: url(/images/back\ grd\ img.jpg);
+  background-image: url(images/back\ grd\ img.jpg);
   height: 500px;
   background-size: cover;
   opacity: 0.4;
